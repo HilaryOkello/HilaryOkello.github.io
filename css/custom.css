@@ -156,8 +156,15 @@ a.custom-card:hover {
 	font-weight: 300;
 	font-size: 15px;
 	margin:auto;
-    left:0px;
-    bottom:0px;
-    width:100%;
-    background:#999;
+	color:#696969;
+}.footer {
+	padding-top:50px;
+    background-color: #101010;
+    padding-top: 10px;
+    font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 15px;
+	margin:auto;
+	color:#696969;
 }
