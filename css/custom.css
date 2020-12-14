@@ -41,12 +41,10 @@
 	font-size: 25px;
 }
 .btn-dark{
-	position: relative;
-	width: 20%;
-	font-family: Poppins;
+/* 	position: relative;
+ */	font-family: Poppins;
 	font-style: normal;
 	font-weight: 500;
-	font-size: 25px;
 	text-align: center;
 	background: #101010;
 }
@@ -127,7 +125,6 @@
 	font-size: 30px;
 }
 .search-inp{
-	border-width:medium;
 	color: #101010;
 }
 .row-1{
